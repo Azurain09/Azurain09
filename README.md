@@ -18,7 +18,7 @@ Industrial and Systems Engineer interested in artificial intelligence, automatio
 
 ## Selected projects
 
-### [QR System](https://github.com/Azurain09/Qr-System)
+### [QR System Frontend](https://github.com/Azurain09/Qr-System)
 
 QR-enabled hotel breakfast ordering prototype with separate guest, kitchen, reception, and management workflows. The project focuses on digitizing an operational process, real-time status updates, and reporting.
 
@@ -26,11 +26,11 @@ QR-enabled hotel breakfast ordering prototype with separate guest, kitchen, rece
 
 FastAPI service supporting the QR System: authenticated staff workflows, reporting, WebSocket updates, and deployment-oriented configuration.
 
-### Agentic AI DTI - Credit and Collections Assistant
+### [Agentic AI DTI - Credit and Collections Assistant](https://github.com/Azurain09/agentic-ai-dti)
 
-Tool-using AI agent prototype for a small-store credit and collections workflow. It combines conversational memory, SQLite persistence, validation rules, reporting, and controlled business operations. Public repository in preparation.
+Tool-using AI agent prototype for a small-store credit and collections workflow. It combines conversational memory, SQLite persistence, validation rules, reporting, and controlled business operations.
 
-### Divemotor Santiago - Agentic AI Evaluation
+### [Divemotor Santiago - Agentic AI Evaluation](https://github.com/Azurain09/divemotor-santiago-agentic-ai)
 
 Agentic AI domain developed in the `tau2-bench` evaluation environment for vehicle sales operations. The work includes simulated users, business policies, controlled tools, prompt-engineering experiments, RAG with embeddings, and repeated A/B/C/D simulations.
 
