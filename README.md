@@ -1,4 +1,6 @@
-# Azurain09
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Azurain09 - Industrial and Systems Engineer focused on AI, automation, and digital transformation" width="100%" />
+</p>
 
 Industrial and Systems Engineer interested in artificial intelligence, automation, and digital transformation. I build and evaluate technology prototypes that help organizations improve operational decisions and everyday processes.
 
